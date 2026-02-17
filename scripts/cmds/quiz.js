@@ -8,7 +8,7 @@ const mahmud = async () => {
 module.exports = {
         config: {
                 name: "quiz",
-                aliases: ["qz", "কুইজ"],
+                aliases: ["qz"],
                 version: "1.7",
                 author: "MahMUD",
                 countDown: 10,
