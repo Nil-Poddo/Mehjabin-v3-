@@ -28,12 +28,12 @@ module.exports = {
                 bn: {
                         notFound: "× কাপল ডিপি খুঁজে পাওয়া যায়নি। পরে চেষ্টা করো বেবি!",
                         success: "এই নাও তোমার কাপল ডিপি বেবি <😘",
-                        error: "× ডিপি আনতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× ডিপি আনতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         notFound: "× Couldn't fetch couple DP. Try again later baby!",
                         success: "Here is your cdp baby <😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 }
         },
 
