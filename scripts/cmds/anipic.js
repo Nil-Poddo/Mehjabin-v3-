@@ -31,13 +31,13 @@ module.exports = {
                         noCategory: "× বেবি, একটি ক্যাটাগরি বেছে নাও:\n• %1",
                         invalid: "× ভুল ক্যাটাগরি! এগুলো থেকে একটি বেছে নাও:\n%1",
                         success: "এখানে তোমার %1 ছবি বেবি <😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noCategory: "× Baby, please select a category:\n• %1",
                         invalid: "× Invalid category! Choose one from:\n%1",
                         success: "Here's your %1 image baby <😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noCategory: "× Cưng ơi, hãy chọn một danh mục:\n• %1",
