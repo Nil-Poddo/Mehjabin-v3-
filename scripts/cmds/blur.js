@@ -31,14 +31,14 @@ module.exports = {
                         noImg: "× বেবি, একটি ছবিতে রিপ্লাই দাও অথবা ছবির লিঙ্ক দাও! 🖼️",
                         wait: "বেবি, একটু অপেক্ষা করো... আমি ব্লার করছি! <😘",
                         success: "এই নাও তোমার %1% ব্লার করা ছবি বেবি! <😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         invalidLevel: "× Baby, please enter a blur level between 1–100! ❌",
                         noImg: "× Baby, please reply to an image or provide a URL! 🖼️",
                         wait: "Baby, please wait a moment while I blur it! <😘",
                         success: "Here's your %1% blurred image baby! <😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         invalidLevel: "× Cưng ơi, vui lòng nhập cấp độ mờ từ 1-100! ❌",
