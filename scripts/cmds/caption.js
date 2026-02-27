@@ -38,14 +38,14 @@ module.exports = {
                         listTitle: ">🎀 সহজলভ্য ক্যাটাগরি সমূহ:\n\n",
                         addUsage: "⚠ সঠিক নিয়ম: {pn} add <category> <bn/en> <text>",
                         success: "✅| এই নাও তোমার %1 ক্যাপশন:\n\n%2",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noInput: "× Baby, please specify a category! Example: {pn} love",
                         listTitle: ">🎀 Available categories:\n\n",
                         addUsage: "⚠ Usage: {pn} add <category> <bn/en> <text>",
                         success: "✅| Here’s your %1 caption:\n\n%2",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noInput: "× Cưng ơi, hãy nhập danh mục! Ví dụ: {pn} love",
