@@ -30,12 +30,12 @@ module.exports = {
                 bn: {
                         noInput: "⚠️ বেবি, একটি এনিমে এর নাম তো দাও!",
                         notFound: "❌ দুঃখিত বেবি, এই এনিমে তথ্য খুঁজে পাওয়া যায়নি।",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noInput: "⚠️ Baby, please enter an anime name!",
                         notFound: "❌ Sorry baby, anime info not found.",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noInput: "⚠️ Cưng ơi, vui lòng nhập tên anime!",
