@@ -29,15 +29,15 @@ module.exports = {
 
         langs: {
                 bn: {
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "• 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦: %1\n• 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘"
                 },
                 en: {
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "• 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦: %1\n• 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘"
                 },
                 vi: {
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo %1",
                         success: "• 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦: %1\n• 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘"
                 }
         },
