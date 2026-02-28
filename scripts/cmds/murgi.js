@@ -30,13 +30,13 @@ module.exports = {
 
         langs: {
                 bn: {
-                        noTarget: "× বেবি, কাউকে মেনশন দাও, রিপ্লাই করো অথবা UID দাও! 🐓",
-                        success: "এই নাও তোমার মুরগি ছবি বেবি! 🐸",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        noTarget: "× বেবি, কাউকে মেনশন দাও, রিপ্লাই করো অথবা UID দাও For any help Please Contact With It'z Sammyo! 🐓",
+                        success: "এই নাও তোমার মুরগি ছবি বেবি! For any help Please Contact With It'z Sammyo 🐸",
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
-                        noTarget: "× Baby, mention, reply, or provide UID of the target! 🐓",
-                        success: "Here's your murgi image baby! 🐸",
+                        noTarget: "× Baby, mention, reply, or provide UID of the target!For any help Please Contact With It'z Sammyo 🐓",
+                        success: "Here's your murgi image baby! For any help Please Contact With It'z Sammyo 🐸",
                         error: "× API error: %1. Contact MahMUD for help."
                 },
                 vi: {
