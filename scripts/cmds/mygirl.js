@@ -39,12 +39,12 @@ module.exports.onStart = async ({ event, api, args }) => {
     fs.writeFileSync(imgPath, Buffer.from(response.data, "binary"));
 
     api.sendMessage({
-      body: `𝐓𝐇𝐀𝐓'𝐒 𝐌𝐀𝐇 𝐆𝐈𝐑𝐋 🖤`,
+      body: `𝐓𝐇𝐀𝐓'𝐒 𝐌𝐀𝐇 𝐆𝐈𝐑𝐋 🖤 It'z Sammyo: Aj Mention Dewar kew nai bole 😔`,
       attachment: fs.createReadStream(imgPath)
     }, threadID, () => fs.unlinkSync(imgPath), messageID);
 
   } catch (error) {
     console.error(error);
-    api.sendMessage("🥹error, contact MahMUD.", event.threadID, event.messageID);
+    api.sendMessage("🥹error, contact It'z Sammyo.", event.threadID, event.messageID);
   }
 };
