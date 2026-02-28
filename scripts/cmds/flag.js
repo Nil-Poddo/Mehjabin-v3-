@@ -32,14 +32,14 @@ module.exports = {
                         correct: "✅ | একদম সঠিক উত্তর বেবি!\n\nতুমি জিতেছো %1 কয়েন এবং %2 এক্সপি।",
                         wrong: "🥺 | উত্তরটি ভুল হয়েছে বেবি!\n\n🏳️ সঠিক উত্তর ছিল: %1",
                         notYour: "× বেবি, এটি তোমার জন্য নয়! নিজের জন্য গেম শুরু করো। >🐸",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         start: "🌍 | A random flag has appeared! Guess the country name, baby.",
                         correct: "✅ | Correct answer, baby!\n\nYou have earned %1 coins and %2 exp.",
                         wrong: "🥺 | Wrong Answer, baby!\n\nThe Correct answer was: %1",
                         notYour: "× This is not your flag, baby! >🐸",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         start: "🌍 | Một lá cờ đã xuất hiện! Đoán tên quốc gia đi cưng.",
