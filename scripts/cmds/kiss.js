@@ -33,13 +33,13 @@ module.exports = {
                         noTarget: "× বেবি, কিস করার জন্য কাউকে তো মেনশন দাও! 💋",
                         wait: "তোমার কিস ইমেজটি তৈরি করছি... একটু অপেক্ষা করো বেবি! <😘",
                         success: "এই নাও তোমাদের কিস ইমেজ বেবি! 🙈",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact It'z Sammyo।"
                 },
                 en: {
                         noTarget: "× Baby, please mention someone to kiss! 💋",
                         wait: "Generating your kiss image... Please wait a moment baby! <😘",
                         success: "Here’s your kiss image baby! 🙈",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact It'z Sammyo for help."
                 },
                 vi: {
                         noTarget: "× Cưng ơi, hãy gắn thẻ ai đó để hôn đi! 💋",
