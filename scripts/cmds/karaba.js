@@ -25,12 +25,12 @@ module.exports = {
         langs: {
                 bn: {
                         noTarget: "• বেবি, কাকে কারাবা করবে? মেনশন, রিপ্লাই বা UID দাও! 🐸",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo%1",
                         success: "Effect karaba successful 🔥"
                 },
                 en: {
                         noTarget: "• Baby, mention, reply, or provide UID of the target! 🐸",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact It'z Sammyo%1",
                         success: "Effect karaba successful 🔥"
                 },
                 vi: {
